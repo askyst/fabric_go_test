@@ -72,6 +72,13 @@ func writeToLedger(stub shim.ChaincodeStubInterface, data string) {
 
 
 
+func main() {
+//blank
+return
+
+}
+
+
 
 
 
